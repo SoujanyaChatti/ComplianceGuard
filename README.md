@@ -4,7 +4,7 @@ Enterprise AI Compliance Monitoring System built on **Airia**.
 
 ## Airia Pipeline
 
-- **Pipeline ID:** `11bb8bb9-99db-42ba-b838-1c5ecbc3f95c`
+- **Pipeline ID:** `xxxxx`
 - **API Endpoint:** `https://api.airia.ai/v2/PipelineExecution/{pipelineId}`
 
 ## Tech Stack
